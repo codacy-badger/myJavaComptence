@@ -15,6 +15,7 @@ public class Test {
 		    for(String s1:str){
 		        
 		        System.out.println(s1);
+		        System.out.println("end of programme");
 		    }
 
 		   
